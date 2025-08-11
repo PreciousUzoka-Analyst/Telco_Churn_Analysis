@@ -8,11 +8,15 @@ Key insight: Month-to-month contracts have the highest churn rate, suggesting re
 **Dataset**: [Download](Telco_Customer_Churn_500.csv)
 **Contract SQL**: [view](churn_by_contract.sql)
 **Tenure SQL**: [view](tenure_churn.sql)
+
 **Excel Bar Chart**:
 ![Churn by Contract (Excel)](churn_by_contract.png)
+
 **Power BI Pie Chart**:
 ![Churn Distribution (Power BI)](churn_pie.png)
+
 **Power BI Bar Chart**:
 ![Churn by Contract (Power BI)](churn_by_contract_powerbi.png)
+
 **Power BI Line Chart**:
 ![Monthly Charges by Tenure (Power BI)](monthly_charges_line.png)
